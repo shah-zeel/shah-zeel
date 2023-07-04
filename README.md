@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=shah-zeel&icon=0&color=1)](https://visitcount.itsvg.in)
 # About Me:
 Hi 👋, I'm Zeel Shah, a freshman at Arizona State University majoring in Computer Science
-### 🌐 Socials:
+### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shah-zeel) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zeelshah2708) 
 

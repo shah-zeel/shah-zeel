@@ -1,18 +1,11 @@
-<div style="display: flex;">
-  <div style="flex: 1;">
-    [![](https://visitcount.itsvg.in/api?id=shah-zeel&icon=0&color=1)](https://visitcount.itsvg.in)
-    # About Me:
-    Hi 👋, I'm Zeel Shah, a freshman at Arizona State University majoring in Computer Science
-  </div>
-  <div style="flex: 1;">
-    ### Connect with me:
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shah-zeel) 
-    [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zeelshah2708) 
-    ### My Leetcode:
-    [![Zeel's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zshah6)](https://leetcode.com/zshah6/)
-  </div>
-</div>
-
+[![](https://visitcount.itsvg.in/api?id=shah-zeel&icon=0&color=1)](https://visitcount.itsvg.in)
+# About Me:
+Hi 👋, I'm Zeel Shah, a freshman at Arizona State University majoring in Computer Science
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shah-zeel) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zeelshah2708) 
+### My Leetcode:
+[![Zeel's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zshah6)](https://leetcode.com/zshah6/)
 # Tech Stack:
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -63,5 +56,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shah-zeel&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

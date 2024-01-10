@@ -34,8 +34,10 @@ Hi 👋, I'm Zeel Shah, a freshman at Arizona State University majoring in Compu
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-
+<!---
+Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shah-zeel&repo=most_common_english_words)](https://github.com/shah-zeel/most_common_english_words)
+--->
 ### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
@@ -48,9 +50,12 @@ Hi 👋, I'm Zeel Shah, a freshman at Arizona State University majoring in Compu
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 # GitHub Stats:
+<img src="https://myreadme.vercel.app/api/embed/shah-zeel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<!---
 ![](https://github-readme-stats.vercel.app/api?username=shah-zeel&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shah-zeel&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shah-zeel&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+--->
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shah-zeel&limit=5&theme=flat&combine_all_yearly_contributions=true)

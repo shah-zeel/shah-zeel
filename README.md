@@ -4,6 +4,7 @@ Hi 👋, I'm Zeel Shah, a freshman at Arizona State University majoring in Compu
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shah-zeel) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zeelshah2708) 
+### My Leetcode:
 [![Zeel's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zshah6)](https://leetcode.com/zshah6/)
 # Tech Stack:
 ### Programming Languages:

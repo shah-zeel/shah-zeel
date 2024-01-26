@@ -53,10 +53,12 @@ Projects
 # Leetcode Stats:
 [![Zeel's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zshah6)](https://leetcode.com/zshah6/)
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=zshah6&theme=light&border=no-borderr" alt="LeetCode Badges"/>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=zshah6&theme=light" alt="LeetCode Badges"/>
+
 
 <!---
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=zshah6&theme=light&border=no-border)
 ![](https://github-readme-stats.vercel.app/api?username=shah-zeel&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shah-zeel&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shah-zeel&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

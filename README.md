@@ -51,9 +51,7 @@ Projects
 <img src="https://myreadme.vercel.app/api/embed/shah-zeel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 # Leetcode Stats:
-[![Zeel's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zshah6)](https://leetcode.com/zshah6/)
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=zshah6&theme=light&border=no-borderr" alt="LeetCode Badges"/>
+[![Zeel's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zshah6)](https://leetcode.com/zshah6/)<img src="https://leetcode-badge-showcase.vercel.app/api?username=zshah6&theme=light&filter=comp&border=no-border" alt="LeetCode Badges"/>
 
 
 
